@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type='text/css' href='style.css'?>
+<document>
+<!--We can out any comment here -->
+<module lecture="2018269">Interactive Web Applications and Info Retrieval and Data Management&#33;</module>
+
+    <ca> <title>Assignment 1</title>
+        <submission_time>23:59</submission_time>
+        <submission_date>30/10/2020</submission_date>
+    </ca>
+    <title>My first app</title>
+
+
+</document>
+<!-- This is a comment 
+This is a multi-line comment -->
